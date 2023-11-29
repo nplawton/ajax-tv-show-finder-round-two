@@ -1,0 +1,39 @@
+body {
+    background-image: url(../images/background.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+  }
+  
+  #main {
+    width: 800px;
+    font-family: "Arima Madurai", cursive;
+    background-color: forestgreen;
+    opacity: 80%;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    color: antiquewhite;
+  }
+  
+  #results {
+    width: 700px;
+    background-color: tomato;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 20px;
+  }
+  
+  .result-card {
+    width: 600px;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+  }
